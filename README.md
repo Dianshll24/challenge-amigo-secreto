@@ -21,5 +21,4 @@
 
 ## 📥 Instalación y uso
 1. **Clona este repositorio**  
-   ```bash
-   git clone https://github.com/Dianshll24/challenge-amigo-secreto_esp-main.git
+    https://github.com/Dianshll24/challenge-amigo-secreto.git
